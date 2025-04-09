@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Designing of earth-abundant transition metal complexes",
+    "description": "Catalysis is integral to contemporary chemical industries, underscoring the significance of catalyst development for the production of diverse value-added products. From both economic and sustainability perspectives, the design of catalysts utilizing inexpensive and abundant metals is particularly noteworthy. Consequently, our laboratory is dedicated to the advancement of innovative catalysts employing earth-abundant transition metals for a range of catalytic organic transformations.",
+    "images": [
+      "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/r1.png",
+      "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/r2.png"
+    ]
+  },
+  {
+    "title": "Valorization of biomass into high-value chemicals",
+    "description": "In pursuit of a comfortable and sophisticated lifestyle, we often exploit the Earth's resources, resulting in global warming, climate change, etc. The rapid depletion of fossil fuels necessitates the exploration of alternative resources to ensure a safer living environment. Biomass, being an abundant and carbon-neutral resource with functionalized moieties, presents a viable solution. Therefore, our research group is dedicated to developing sustainable and catalytic methodologies for the valorization of biomass into high-value chemicals.",
+    "images": [
+      "https://raw.githubusercontent.com/akashkumar62/labwebsite/main/gallery/r3.png"
+    ]
+  }
+]
