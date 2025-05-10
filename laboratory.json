@@ -1,60 +1,32 @@
-{
-  "equipment": [
-    {
-      "title": "Advanced Microscopy Suite",
-      "description": "High-resolution imaging capabilities for detailed analysis",
-      "icon": "📋",
-      "color": "text-blue-500"
-    },
-    {
-      "title": "Spectroscopy Equipment",
-      "description": "State-of-the-art analytical instruments",
-      "icon": "📋",
-      "color": "text-blue-500"
-    },
-    {
-      "title": "Data Processing Center",
-      "description": "High-performance computing facilities",
-      "icon": "📋",
-      "color": "text-blue-500"
-    }
-  ],
-  "facilities": [
-    {
-      "title": "Specialized Research Labs",
-      "description": "Multiple specialized research spaces",
-      "icon": "🔬",
-      "color": "text-blue-500"
-    },
-    {
-      "title": "Testing Facilities",
-      "description": "Advanced testing and validation equipment",
-      "icon": "🧪",
-      "color": "text-green-500"
-    },
-    {
-      "title": "Analysis Center",
-      "description": "Comprehensive data analysis tools",
-      "icon": "📊",
-      "color": "text-purple-500"
-    }
-  ],
-  "statistics": [
-    {
-      "value": "1500+",
-      "label": "Experiments Conducted"
-    },
-    {
-      "value": "25+",
-      "label": "Research Projects"
-    },
-    {
-      "value": "15+",
-      "label": "International Collaborations"
-    },
-    {
-      "value": "30+",
-      "label": "Team Members"
-    }
-  ]
-}
+[
+  {
+    "title": "Glovebox",
+    "description": "For handling air-sensitive compounds under inert atmosphere.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "Schlenk Line",
+    "description": "Glassware setup for air-free synthesis and vacuum techniques.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "NMR Spectrometer",
+    "description": "Used to determine molecular structures and compositions.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "GC-MS",
+    "description": "For gas chromatography and mass spectrometry analysis.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "UV-Vis Spectrophotometer",
+    "description": "Analyzes absorption spectra of various compounds.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  },
+  {
+    "title": "Fume Hood",
+    "description": "Ensures safe handling of hazardous chemicals.",
+    "image": "https://www.despatch.com/blog/wp-content/uploads/2023/01/trnava-university-_9xRHrMOjeg-unsplash.jpg"
+  }
+]
